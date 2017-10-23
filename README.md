@@ -5,4 +5,4 @@ Here are my personal notes for the online Product Management Course through UDEM
 
 Product Lifecycle 
 ![alt text][logo1]
-[logo1]: https://ibb.co/mHkDJ6 "The Product Lifecylce"
+[logo1]: https://preview.ibb.co/gcFr5m/Product_Lifecycle.png
