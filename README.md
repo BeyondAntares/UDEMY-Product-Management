@@ -10,7 +10,8 @@ Product management is an organisation function that manages all the various stag
 The product lifcycle chronicls the various stages of a product from ideation and inception, engineering design, manufacture, ongoing servicing and disposal. Even though a product may reach the end of its lifespan it does not mean that it cannot be continued through other ways such as rebranding or introducing a new version of the same device. 
 
 ![alt text](https://preview.ibb.co/gcFr5m/Product_Lifecycle.png "The product lifecylce")
-source: Mavo Institute slides UDEMY, Section2, Lecture 4
+
+source: [Mavo Institute slides UDEMY, Section2, Lecture 4](https://www.udemy.com/product-management/learn/v4/t/lecture/7291958?start=0)
 
 ## The various stages of the product lifecycle are as follows:
 
