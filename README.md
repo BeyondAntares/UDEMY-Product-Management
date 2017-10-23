@@ -168,16 +168,41 @@ Core product hasn't had much changes
 Seasonal marketing 
 Change of branding, I.e. personalized coke bottles.  
  
-Characteristics of PLC stages 
+# Characteristics of PLC stages 
 These are the characteristics of each of the 4 PLC stages: 
 
+## 1. Market introduction stage 
+This is the stage in which the product has been introduced first time in the market and the sales of the product starts to grow slowly and gradually and the profit received from the product is nominal and non-attained. The market for the product is not competitive initially and also the company spends initially on the advertisement and uses various other tools for promotion in order to motivate and produce awareness among the consumers, therefore generating discerning demands for particular brand. The products start to gain distribution as the product is initially new in the market and in this stage the quality of the product is not assured and the price of the product will also be determined as low or high. 
+* costs are very high 
+* slow sales volumes to start 
+* little or no competition 
+* demand has to be created 
+* customers have to be prompted to try the product 
+* makes little money at this stage 
 
-Stage | Characteristics 
-------| ----------------
-**1. Market introduction stage** | This is the stage in which the product has been introduced first time in the market and the sales of the product starts to grow slowly and gradually and the profit received from the product is nominal and non-attained. The market for the product is not competitive initially and also the company spends initially on the advertisement and uses various other tools for promotion in order to motivate and produce awareness among the consumers, therefore generating discerning demands for particular brand. The products start to gain distribution as the product is initially new in the market and in this stage the quality of the product is not assured and the price of the product will also be determined as low or high. costs are very high, slow sales volumes to start,  
-little or no competition, demand has to be created, customers have to be prompted to try the product, makes little money at this stage 
-**2. Growth stage** | In the growth stage, the product is present already in the market and the consumers of the products are habitual of the product and also there is quick growth in the product sales as more new and new customers are using and trying and are becoming aware of the product. The customers are becoming satisfied from the product and they bought it again and again. The ratio of the product repetition for the trial procurement risen and also at this level, the competitors have started to overflow the market with more appealing and attractive inventions. This helps in creating increased competition in the market and also results in decreasing the product price. * costs reduced due to economies of scale * sales volume increases significantly * profitability begins to rise * public awareness increases * competition begins to increase with a few new players in establishing market * increased competition leads to price decreases 
-**3. Maturity stage** | In maturity stage, the cost of the product has been decreased because of the increased volume of the product and the product started to experience the curve effects. Also, more and more competitors have seen to be leaving the market. In this way very few buyers have been left for the product and this results in less sales of the product. The decline of the product and cost of attaining new buyers in this level is more as compare to the resulted profit. The brand or the product differentiation via rebating and discounts in price supports in recalling the outlet distribution. Also, there is a decline in the entire cost of marketing through enhancing the distribution and promotional efficiency with switching brand and segmentation. Costs are decreased as a result of production volumes increasing and experience curve effects sales volume peaks and market saturation is reached increase in competitors entering the market prices tend to drop due to the proliferation of competing products brand differentiation and feature diversification is emphasized to maintain or increase market share industrial profits go down 
-**4. Saturation and decline stage** | In this stage, the profit as well as the sales of the product has started to decline because of the deletion of the product from the market. The market for the product in this stage, started to show negative rate of growth and corroding cash flows. The product, at this stage may be kept but there should be less adverts.Costs become counter-optimal, sales volume decline, prices, profitability diminish, profit becomes more a challenge of production/distribution efficiency than increased sales 
+## 2. Growth stage 
+In the growth stage, the product is present already in the market and the consumers of the products are habitual of the product and also there is quick growth in the product sales as more new and new customers are using and trying and are becoming aware of the product. The customers are becoming satisfied from the product and they bought it again and again. The ratio of the product repetition for the trial procurement risen and also at this level, the competitors have started to overflow the market with more appealing and attractive inventions. This helps in creating increased competition in the market and also results in decreasing the product price. 
+* costs reduced due to economies of scale 
+* sales volume increases significantly 
+* profitability begins to rise 
+* public awareness increases 
+* competition begins to increase with a few new players in establishing market 
+* increased competition leads to price decreases 
+
+## 3. Maturity stage 
+In maturity stage, the cost of the product has been decreased because of the increased volume of the product and the product started to experience the curve effects. Also, more and more competitors have seen to be leaving the market. In this way very few buyers have been left for the product and this results in less sales of the product. The decline of the product and cost of attaining new buyers in this level is more as compare to the resulted profit. The brand or the product differentiation via rebating and discounts in price supports in recalling the outlet distribution. Also, there is a decline in the entire cost of marketing through enhancing the distribution and promotional efficiency with switching brand and segmentation.[3] 
+costs are decreased as a result of production volumes increasing and experience curve effects 
+sales volume peaks and market saturation is reached 
+increase in competitors entering the market 
+prices tend to drop due to the proliferation of competing products 
+brand differentiation and feature diversification is emphasized to maintain or increase market share 
+industrial profits go down 
+
+## 4. Saturation and decline stage 
+In this stage, the profit as well as the sales of the product has started to decline because of the deletion of the product from the market. The market for the product in this stage, started to show negative rate of growth and corroding cash flows. The product, at this stage may be kept but there should be less adverts.[4] 
+* costs become counter-optimal 
+* sales volume decline 
+* prices, profitability diminish 
+* profit becomes more a challenge of production/distribution efficiency than increased sales 
 Note: Product termination is usually not the end of the business cycle, only the end of a single entrant within the larger scope of an ongoing business program. 
 
