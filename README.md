@@ -206,3 +206,19 @@ In this stage, the profit as well as the sales of the product has started to dec
 * profit becomes more a challenge of production/distribution efficiency than increased sales 
 Note: Product termination is usually not the end of the business cycle, only the end of a single entrant within the larger scope of an ongoing business program. 
 
+# Brand Management:  
+Brand and product management is closely related 
+Your product will affect your brand 
+Your brand will affect your product. 
+ 
+A brand is a product identity that differs from the competition. It is combination of emotional and intuitive aspects related to a product. They are about customer experience. Customers are forgiving of a strong brand.  
+
+It is intangible but are a experience. It has tremendous value. Your customers own your brand.  
+The benefits of a strong brand is focus. Apple provides the same product experiences across its ecosystem.  
+
+Apple isn't in the business of computer products, but for creating incredibly designed products that is different from the status quo.  
+* Be different 
+* Be alert. 
+* Be relevant.   
+Brands are owned by the entire company and people using the product.  
+Feedback provides instant feedback from your customer. Allows the company to take action when it needs to.
